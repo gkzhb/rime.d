@@ -103,3 +103,5 @@ translator:
   preedit_format:
     {}
   prism: flydp
+  # Rime 双拼输入怎么样可以像搜狗一样可以没输完全就可以出来候选？ - V2EX https://v2ex.com/t/932549
+  enable_completion: true
