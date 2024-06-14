@@ -1,0 +1,9 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: rime_ice
+version: "2024-06-14"
+import_tables:
+  - soft_dev
+  - software

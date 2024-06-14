@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: meow_emoji
+version: "0.1"
+import_tables:
+  - cn_dicts/kaomoji_kmj
+  - cn_dicts/kaomoji_pinyin
+  - cn_dicts/text_emoji
+sort: original
+...
