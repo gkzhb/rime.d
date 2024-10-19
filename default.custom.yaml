@@ -1,0 +1,5 @@
+patch:
+  schema_list:
+  - schema: double_pinyin_flypy    # 小鹤双拼
+  - schema: meow_emoji             # 颜文字
+  - schema: rime_frost             # 白霜拼音（全拼）
